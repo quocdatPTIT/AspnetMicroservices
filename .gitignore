@@ -348,3 +348,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/.idea/.idea.AspnetMicroservices.dir/.idea/encodings.xml
+/.idea/.idea.AspnetMicroservices.dir/.idea/indexLayout.xml
+/.idea/.idea.AspnetMicroservices.dir/.idea/vcs.xml
+/.idea/.idea.AspnetMicroservices.dir/.idea/.gitignore
